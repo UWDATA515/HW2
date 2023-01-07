@@ -1,4 +1,4 @@
-# Homework 1: Data Analysis Basics
+# Homework 2: Data Analysis Basics
 
 ## Dataset
 Obtain the CSV (comma separated variable) file containing the counts of
@@ -8,7 +8,9 @@ bicycles crossing the Fremont Bridge since 2012 (as described in
 ## Folder Structure
 ```
 .
-├── ISSUE_TEMPLATE.md
+├── .github
+|   └── ISSUE_TEMPLATE
+|       └── homework-grade.md
 ├── LICENSE
 ├── README.md
 └── project
