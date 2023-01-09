@@ -16,7 +16,7 @@ bicycles crossing the Fremont Bridge since 2012 (as described in
 └── project
     ├── README.md
     ├── analysis
-    │   └── hw1.ipynb
+    │   └── hw2.ipynb
     └── data
         └── bicycle_data.csv
 ```
@@ -28,7 +28,7 @@ Download the data from
 `https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD` and
 put it in the `data` directory as `bicycle_data.csv`. 
 
-Create a Jupyter notebook `hw1.ipynb` in `analysis` folder to analyze these data.
+Create a Jupyter notebook `hw2.ipynb` in `analysis` folder to analyze these data.
 
 ## Problem
 In the notebook, please complete the following:
