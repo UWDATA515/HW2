@@ -33,7 +33,7 @@ Create a Jupyter notebook `hw2.ipynb` in the `analysis` folder to analyze the da
 ## Problem
 In the notebook, please complete the following (total 15 points):
 1. Read the CSV file into a pandas dataframe `1pt`
-1. Remove the existing "Fremont Bridge Total" column from the datagrame `1pt`
+1. Remove the column representing the TOTAL traffic from the dataframe (something like "Fremont Bridge Sidewalks, south of N 34th St") `1pt`
 1. Add columns to the dataframe containing:
    * The total (East + West) bicycle count - in a column called "total" `1pt` (Yes, you just deleted a similar column in the previous step. We're making you calculate it yourself)
    * The hour of the day - in a column called "hour" `1pt`
